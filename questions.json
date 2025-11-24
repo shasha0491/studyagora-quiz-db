@@ -2,15 +2,6 @@
   "questions": [
     {
       "category": "currentAffairs",
-      "question": "Who is the current UN Secretary General?\n",
-      "optionA": "Antonio Guterres",
-      "optionB": "Elon Musk",
-      "optionC": "Joe Biden",
-      "optionD": "Narendra Modi",
-      "answer": "0"
-    },
-    {
-      "category": "currentAffairs",
       "question": "Kuno National Park is located in which state?",
       "optionA": "Madhya Pradesh",
       "optionB": "Uttar Pradesh",
