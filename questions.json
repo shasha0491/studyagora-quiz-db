@@ -8,6 +8,15 @@
       "optionC": "Joe Biden",
       "optionD": "Narendra Modi",
       "answer": "0"
+    },
+    {
+      "category": "currentAffairs",
+      "question": "Kuno National Park is located in which state?",
+      "optionA": "Madhya Pradesh",
+      "optionB": "Uttar Pradesh",
+      "optionC": "Rajasthan",
+      "optionD": "Gujarat",
+      "answer": "0"
     }
   ]
 }
