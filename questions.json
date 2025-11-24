@@ -17,6 +17,15 @@
       "optionC": "Russia",
       "optionD": "India",
       "answer": "0"
+    },
+    {
+      "category": "currentAffairs",
+      "question": "Who was awarded the Indira Gandhi Prize for Peace, Disarmament and Development for 2024?",
+      "optionA": "Michelle Bachelet",
+      "optionB": "Malala Yousafzai",
+      "optionC": " Angela Merkel",
+      "optionD": "Antonio Guterres",
+      "answer": "0"
     }
   ]
 }
