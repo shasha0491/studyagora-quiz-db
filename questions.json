@@ -1,13 +1,3 @@
 {
-  "questions": [
-    {
-      "category": "currentAffairs",
-      "question": "Who is the current UN Secretary General?\n",
-      "optionA": "Antonio Guterres",
-      "optionB": "Elon Musk",
-      "optionC": "Joe Biden",
-      "optionD": "Narendra Modi",
-      "answer": "0"
-    }
-  ]
+  "questions": []
 }
