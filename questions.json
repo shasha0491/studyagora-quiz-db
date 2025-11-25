@@ -44,6 +44,15 @@
       "optionC": "Australia",
       "optionD": "France",
       "answer": "C"
+    },
+    {
+      "category": "currentAffairs",
+      "question": "esgse",
+      "optionA": "edf",
+      "optionB": "efa",
+      "optionC": "ef",
+      "optionD": "ef",
+      "answer": "A"
     }
   ]
 }
