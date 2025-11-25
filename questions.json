@@ -2,11 +2,11 @@
     "questions": [
         {
             "category": "currentAffairs",
-            "question": "Which country hosted the 2024 World Climate Action Summit?",
-            "optionA": "UAE",
-            "optionB": "India",
-            "optionC": "USA",
-            "optionD": "France",
+            "question": "Kuno National Park is located in which state?",
+            "optionA": "Madhya Pradesh",
+            "optionB": "Uttar Pradesh",
+            "optionC": "Rajasthan",
+            "optionD": "Gujarat",
             "answer": "0"
         },
         {
