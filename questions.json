@@ -2,12 +2,12 @@
     "questions": [
         {
             "category": "currentAffairs",
-            "question": "Which country hosted the 2024 World Climate Action Summit?",
-            "optionA": "UAE",
-            "optionB": "India",
-            "optionC": "USA",
+            "question": "Ausindex is the military exercise between India and ?",
+            "optionA": "USA",
+            "optionB": "UK",
+            "optionC": "Australia",
             "optionD": "France",
-            "answer": "0"
+            "answer": "2"
         },
         {
             "category": "currentAffairs",
