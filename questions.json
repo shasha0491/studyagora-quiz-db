@@ -1,22 +1,3 @@
 {
-    "questions": [
-        {
-            "category": "currentAffairs",
-            "question": "",
-            "optionA": "",
-            "optionB": "",
-            "optionC": "",
-            "optionD": "",
-            "answer": "0"
-        },
-        {
-            "category": "generalStudies",
-            "question": "Who discovered penicillin?",
-            "optionA": "Alexander Fleming",
-            "optionB": "Louis Pasteur",
-            "optionC": "Robert Koch",
-            "optionD": "Edward Jenner",
-            "answer": "0"
-        }
-    ]
+    "questions": []
 }
