@@ -2,15 +2,6 @@
     "questions": [
         {
             "category": "currentAffairs",
-            "question": "Kuno National Park is located in which state?",
-            "optionA": "Madhya Pradesh",
-            "optionB": "Uttar Pradesh",
-            "optionC": "Rajasthan",
-            "optionD": "Gujarat",
-            "answer": "0"
-        },
-        {
-            "category": "currentAffairs",
             "question": "Which country hosted the 2024 World Climate Action Summit?",
             "optionA": "UAE",
             "optionB": "India",
