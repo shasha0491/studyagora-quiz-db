@@ -26,6 +26,15 @@
       "optionC": " Angela Merkel",
       "optionD": "Antonio Guterres",
       "answer": "0"
+    },
+    {
+      "category": "currentAffairs",
+      "question": "Which country hosted the 2024 World Climate Action Summit?",
+      "optionA": "UAE",
+      "optionB": "India",
+      "optionC": "USA",
+      "optionD": "France",
+      "answer": "0"
     }
   ]
 }
