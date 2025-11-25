@@ -62,6 +62,15 @@
       "optionC": "Australia",
       "optionD": "France",
       "answer": "C"
+    },
+    {
+      "category": "currentAffairs",
+      "question": "dwqd",
+      "optionA": "wdq",
+      "optionB": "wdq",
+      "optionC": "dwq",
+      "optionD": "dwq",
+      "answer": "A"
     }
   ]
 }
