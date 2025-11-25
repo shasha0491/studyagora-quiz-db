@@ -20,15 +20,6 @@
         },
         {
             "category": "currentAffairs",
-            "question": "ef",
-            "optionA": "ew",
-            "optionB": "ew",
-            "optionC": "ewr",
-            "optionD": "wer",
-            "answer": "A"
-        },
-        {
-            "category": "currentAffairs",
             "question": "Ausindex is the military exercise between India and ?",
             "optionA": "USA",
             "optionB": "UK",
@@ -53,6 +44,15 @@
             "optionC": "Australia",
             "optionD": "France",
             "answer": "C"
+        },
+        {
+            "category": "currentAffairs",
+            "question": "dwqd",
+            "optionA": "wdq",
+            "optionB": "wdq",
+            "optionC": "dwq",
+            "optionD": "dwq",
+            "answer": "A"
         },
         {
             "category": "currentAffairs",
