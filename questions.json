@@ -1,3 +1,22 @@
 {
-    "questions": []
+    "questions": [
+        {
+            "category": "currentAffairs",
+            "question": "",
+            "optionA": "",
+            "optionB": "",
+            "optionC": "",
+            "optionD": "",
+            "answer": "0"
+        },
+        {
+            "category": "currentAffairs",
+            "question": "",
+            "optionA": "sf",
+            "optionB": "aff",
+            "optionC": "qwf",
+            "optionD": "qff",
+            "answer": "0"
+        }
+    ]
 }
