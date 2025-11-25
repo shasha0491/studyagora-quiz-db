@@ -17,6 +17,15 @@
       "optionC": "USA",
       "optionD": "France",
       "answer": "0"
+    },
+    {
+      "category": "currentAffairs",
+      "question": "ef",
+      "optionA": "ew",
+      "optionB": "ew",
+      "optionC": "ewr",
+      "optionD": "wer",
+      "answer": "A"
     }
   ]
 }
